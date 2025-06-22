@@ -1,0 +1,5 @@
+Linear Search
+Product Found: 103 - Phone (Electronics)
+
+Binary Search
+Product Found: 103 - Phone (Electronics)
